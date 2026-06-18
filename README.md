@@ -10,6 +10,9 @@ This tool was built to bridge the gap between hardware readings and data analysi
 - **Advanced Metrics:** Computes Fractional Hamming Distance, Uniqueness, and Bit Stability across multiple samples.
 - **Data Visualization:** Embedded matplotlib/seaborn plots within the Tkinter UI for live data analysis.
 
+## User Interface & Data Analysis
+![SRAM Data Visualizer Interface](https://github.com/Atousa98/SRAM-Data-Visualizer/releases/download/v1.0.0/tool.png)
+
 ## Technical Stack
 - **Language:** Python
 - **GUI Framework:** Tkinter
